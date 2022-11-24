@@ -31,7 +31,14 @@ const Navbar = () => {
           </a>
         </li>
 
+        <li className="text-black font-semibold bg-green-300 py-5 px-20 mx-8 sm:mx-3 sm:py-2 sm:px-8 rounded-full cursor-pointer hover:bg-green-800 hover:text-white ">
+          <a href="https://app.optimism.io/bridge/deposit" target="_blank" rel="noreferrer">
+            Bridge to Optimism Here
+          </a>
+        </li>
+        {/**
         <ConnectSequence />
+        */}
 
       </ul>
       <div className="flex relative">
