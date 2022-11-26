@@ -1,5 +1,5 @@
 
-import { Navbar, Landing, Footer, Roadmap } from "./components";
+import { Navbar, Landing, Footer, Roadmap, Nifty } from "./components";
 
 const App = () => (
   <div className="min-h-screen">
@@ -8,6 +8,7 @@ const App = () => (
       <Landing />
     </div>
     <Roadmap />
+    <Nifty />
     <Footer />
   </div>
 );

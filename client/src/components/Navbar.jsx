@@ -2,7 +2,7 @@ import React from "react";
 import { HiMenuAlt4 } from "react-icons/hi";
 import { AiOutlineClose } from "react-icons/ai";
 import { Link } from "react-router-dom";
-import ConnectSequence from "./sequencewallet.tsx";
+// import ConnectSequence from "./sequencewallet.tsx";
 import logo from "../assets/logo.png";
 
 const NavBarItem = ({ title, classprops }) => (

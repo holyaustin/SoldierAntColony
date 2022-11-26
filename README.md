@@ -14,9 +14,9 @@ Try running some of the following tasks:
 
 Fork this repo using
 
-git clone https://github.com/holyaustin/soldier-ant-colony.git
+git clone https://github.com/holyaustin/SoldierAntColony.git
 
-cd soldier-ant-colony
+cd SoldierAntColony
 
 npx hardhat node
 
@@ -53,6 +53,8 @@ IPFS/Filecoin (NFT.Storage)
 
 Optimism Goerli Testnet 
 
+NiftyKit Integration for Redeemables and Collection
+
 Sequence Wallet Integration
 
 Spheron and Vercel
@@ -71,13 +73,15 @@ Video Editor
 
 
 ## Demo / Live Links
-Live Dapp - https://soldier-ant-colony-dvtsd.spheron.app
+Live Dapp - https://soldier-ant-colony-metaverse.vercel.app/
 
-https://soldier-ant-colony-r8hz7.spheron.app
-
-https://soldier-ant-colony.vercel.app/
+soldier-ant-colony-metaverse-holyaustin.vercel.app
 
 Youtube Url: https://youtu.be/-N1akNGWuR8
+
+Redeemable NFT: https://app.niftykit.com/collections/soldier-ant-colony-1/redeemables/0/0x0b98b882e5ab60ef918aa5a1f5aa9181f131370e464f4e0ada4a10deaf35f4c3318a79a6d68979ab2df16d31463afbe7d2558b79821f4a6ec9006af0877e2e001c
+
+Nifty Kit Collection: https://app.niftykit.com/collections/soldier-ant-colony-1
 
 
 ## Connect with me and send me a mail

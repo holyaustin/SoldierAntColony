@@ -48,7 +48,7 @@ const Landing = () => {
             className="flex flex-row justify-center items-center my-5 bg-green-300 p-3 rounded-full cursor-pointer hover:bg-green-800 hover:text-white"
           >
 
-            <p className="text-black text-3xl font-semibold py-3 px-10 mx-14 hover:text-white hover:text-white">
+            <p className="text-black text-3xl font-semibold py-3 px-10 mx-14 hover:text-white">
               Get Started
             </p>
           </button>
