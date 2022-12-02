@@ -75,9 +75,9 @@ Video Editor
 ## Demo / Live Links
 Live Dapp - https://soldier-ant-colony-metaverse.vercel.app/
 
-soldier-ant-colony-metaverse-holyaustin.vercel.app
+https://soldier-ant-colony-metaverse-holyaustin.vercel.app
 
-Youtube Url: https://youtu.be/-N1akNGWuR8
+Youtube Url: https://youtu.be/f3Dbh1i6pXE
 
 Redeemable NFT: https://app.niftykit.com/collections/soldier-ant-colony-1/redeemables/0/0x0b98b882e5ab60ef918aa5a1f5aa9181f131370e464f4e0ada4a10deaf35f4c3318a79a6d68979ab2df16d31463afbe7d2558b79821f4a6ec9006af0877e2e001c
 
