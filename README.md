@@ -55,9 +55,7 @@ Optimism Goerli Testnet
 
 NiftyKit Integration for Redeemables and Collection
 
-Sequence Wallet Integration
-
-Spheron and Vercel
+Vercel
 
 
 ## Tools Used in this Project
