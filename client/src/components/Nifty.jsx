@@ -30,10 +30,10 @@ const Nifty = () => {
     >
       <div className="flex mf:flex-row flex-col items-start justify-between md:p-20 px-4">
         <div className="flex flex-1 justify-start items-start flex-col mf:mr-1 font-bold">
-          <h1 className="text-4xl sm:text-5xl text-green-300 font-semibold">
+          <h1 className="text-4xl sm:text-5xl text-green-500 font-semibold">
             Built with Nifty Kit <br />
           </h1><br />
-          <p className="text-left mt-1 text-white md:w-10/12 w-11/12 text-2xl font-black">
+          <p className="text-left mt-1 text-white md:w-10/12 w-11/12 text-2xl text-black">
             We are currently running giveways<br />
             Be part of this give away now. <br />
             The first 500 collaborators or   <br />

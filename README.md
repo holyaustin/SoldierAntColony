@@ -7,7 +7,7 @@ This project was built as part of the 2022 Hackathon. The project is submitted a
 
 ## Description
 
-This project implements the bionature's attack exhbited by one of the smallest creatures on planet earth. The soldier ant lives in colonies and attacks other colonies or any where there is food for survival. The Concept of this game is made as simple as possible to enable even a novice understand how to play the game.
+This project implements the bionature's attack exhbited by one of the smallest creatures on planet earth. The soldier ant lives in colonies and attacks other colonies or anywhere there is food for survival. To the game, you have to have a game character in your wallet address otherwise, you mint one from the marketplace. Once you have a soldier ant character, you proceed to the battleground where you combat ZANT the repellant for food. If you defeat ZANT, your colony goes with the food. You are also rewarded with NFT (Token reward will be integrated later) The Concept of this game is made as simple as possible to enable even a novice to understand how to play the game.
 
 ## How to run this project locally
 Try running some of the following tasks:
@@ -24,7 +24,7 @@ npx hardhat run scripts/deploy.js --network localhost
 
 npm run build
 
-## How to deploy to Polygon Mumbai  blockchain, update hardhat.config
+## How to deploy to Optimism Goerli blockchain, update hardhat.config
 npx hardhat run scripts/deploy.js --network testnet
 
 Game contract address: 0x1B7a6536f23a16e198246A3f80Cd646f86856F11
@@ -37,8 +37,8 @@ Marketplace Explorer Url: https://goerli-optimism.etherscan.io/address/0x8D36089
 
 
 ## How to play
-Final project deployed to Mumbai Testnet
-1. Switch your wallet network to Mumbai Testnet
+Final project deployed to Optimism Goerli Testnet
+1. Switch your wallet network to Optimism Goerli Testnet
 2. Connect you wallet
 3. Mint a character from our Marketplace
 4. Enagege in the quest to get the lucky food slide
